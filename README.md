@@ -2,11 +2,11 @@
 Demonstration of an issue with react-google-recaptcha when using preact and preact-compat
 
 usage :
-
+```
 npm i
 npm run dev
-
 google-chrome  http://localhost:8080/webpack-dev-server/
+```
 
 This demonstrates two issues :
 
